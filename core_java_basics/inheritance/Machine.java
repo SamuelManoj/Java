@@ -1,4 +1,4 @@
-package core_java_basics.Inheritance;
+package core_java_basics.inheritance;
 
 public class Machine {
 	String name = "Amaze";
