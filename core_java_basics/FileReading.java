@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class ReadingFiles {
+public class FileReading {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		// TODO Auto-generated method stub
